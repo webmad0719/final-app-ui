@@ -1,0 +1,51 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+    color: #111;
+}
+
+h1, h2, h3, h4, h5 {
+    font-weight: 200;
+}
+
+.container {
+    padding-top: 90px;
+}
+
+h1 {
+    margin-bottom: 60px;
+}
+
+.coasters-list {
+    margin-top: 60px;
+}
+
+.modal-form .MuiPaper-root {
+    padding: 25px
+}
+
+
+/* MENU NAVEGACION */
+
+    .menu h1 {
+    text-align: left;
+    font-size: 1.5em;
+    font-weight: 300;
+    float: left;
+    line-height: 50px;
+    margin-left: 10px;
+    margin-bottom: 0;
+}
+
+a:hover {
+    text-decoration: none
+}
+a.white-link {
+    color: white
+}
+
+.block-button {
+    display: block;
+    margin: 20px 10% !important;
+    width: 80%;
+}
